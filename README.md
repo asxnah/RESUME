@@ -22,7 +22,7 @@ Front-end разработчик
 Разработка полнофункционального веб-приложения для создания и прохождения тестов с генерацией результатов и личным кабинетом пользователей.
 Разработала клиентскую часть на React/Vite:
 - Настроила маршрутизацию между страницами (главная, авторизация, создание теста, прохождение теста, просмотр результатов, профиль пользователя).
-- Реализовал компонентную архитектуру с разделением на переиспользуемые блоки.
+- Реализовала компонентную архитектуру с разделением на переиспользуемые блоки.
 - Организовала библиотеку UI-элементов, включающую кастомные иконки и визуальные элементы.
 - Реализовала логику отображения тестов и вопросов, обработку ответов пользователей, отображение статистики.
 - Настроила строгую типизацию пропсов и интерфейсов компонентов, уделяла внимание читаемости и переиспользуемости кода.
@@ -80,7 +80,7 @@ Front-end разработчик
 Русский — Родной
 Английский — B2 — Средне-продвинутый
 #### Стек
-TypeScript; JavaScript; HTML5; CSS3; Git; React; PHP; Bootstrap; REST API; VueJS; Node.js; Figma; Адаптивная верстка; GitHub; Tailwind; Atlassian Jira; MongoDB; MySQL; BEM; ReactJS; React JS; Python; ООП; Composer
+TypeScript/JavaScript; HTML5; CSS3; PHP; PHP Composer; VueJS; ReactJS; NextJS; Redux; Zustand; Tailwind; MongoDB; MySQL; Bootstrap; REST API; Node.js; Git; GitHub; Figma; Адаптивная верстка; BEM; ООП
 
 ### Дополнительная информация
 Обо мне
@@ -172,7 +172,7 @@ Russian — Native
 English — B2 — Upper Intermediate  
 
 #### Stack
-TypeScript; JavaScript; HTML5; CSS3; Git; React; PHP; Bootstrap; REST API; Vue.js; Node.js; Figma; Responsive design; GitHub; Tailwind; Atlassian Jira; MongoDB; MySQL; BEM; ReactJS; Python; OOP; Composer  
+TypeScript/JavaScript; HTML5; CSS3; PHP; PHP Composer; VueJS; ReactJS; NextJS; Redux; Zustand; Tailwind; MongoDB; MySQL; Bootstrap; REST API; Node.js; Git; GitHub; Figma; Responsive design; BEM; OOP
 
 ### Additional Information
 About me  
