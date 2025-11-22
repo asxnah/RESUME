@@ -1,4 +1,4 @@
-# Web and multimedia applications developer / Web and multimedia applications developer
+# Разработчик веб и мультимедийных приложений / Web and multimedia applications developer
 
 ## ru
 
