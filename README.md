@@ -1,4 +1,4 @@
-# Front-end разработчик / Front-end Developer
+# Web and multimedia applications developer / Web and multimedia applications developer
 
 ## ru
 
