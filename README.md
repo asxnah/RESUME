@@ -12,7 +12,7 @@ Proficient with React hooks (useState, useEffect, useMemo, useCallback, useConte
 
 ### Work Experience — 1 year 1 month
 
-#### Front-end Developer, December 2025 — December 2025 (1 month), Enisey-Group LLC
+#### Front-end Developer, December 2025 — December 2025 (1 month), AVS-Dorstroy LLC
 Developed a full-stack application using Next.js (App Router) with Redux Toolkit and integration with the backend on NestJS.
 Responsibilities and achievements:
 - Developed the client-side using React + Next.js, creating both client and server components (RSC).
@@ -107,7 +107,7 @@ Front-end разработчик
 
 ### Опыт работы — 1 год 1 месяц
 
-#### Front-end разработчик, Декабрь 2025 — Декабрь 2025 (1 месяц), ООО "Енисей-Групп"
+#### Front-end разработчик, Декабрь 2025 — Декабрь 2025 (1 месяц), ООО "АВС-Дорстрой"
 Разработка full-stack приложения на основе Next.js (App Router) с использованием Redux Toolkit и интеграцией с backend-частью на NestJS.
 Обязанности и достижения:
 - Разрабатывала клиентскую часть на React + Next.js, создавала клиентские и серверные компоненты (RSC).
