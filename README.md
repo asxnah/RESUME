@@ -35,8 +35,8 @@
 09.02.07 Information Systems and Programming
 
 ### Languages
-Russian - Native  
-English - B2 - Upper-Intermediate
+- Russian — Native  
+- English — B2 / Upper-Intermediate
 
 ## ru
 
@@ -74,5 +74,5 @@ English - B2 - Upper-Intermediate
 09.02.07 Информационные системы и программирование
 
 ### Языки
-Русский - Родной
-Английский - B2 - Средне-продвинутый
+- Русский — Родной
+- Английский — B2 / Средне-продвинутый
