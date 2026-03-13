@@ -1,6 +1,6 @@
 ## Work experience
 
-### LLC "Study Ninja", December 2025 - Present (3 months)
+### LLC "Study Ninja", December 2025 - Present
 
 - Developed complex interactive UI modules using React + TypeScript (graph-based interfaces, custom nodes, visual states).
 - Designed and maintained the client-side architecture of modules: separation of business logic, UI components, configuration, and API layers.
