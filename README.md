@@ -39,7 +39,7 @@
 ### Primary
 React / Redux, Next.js, TypeScript / JavaScriptGit, HTML, CSS, Figma, Docker.
 
-#### Specifics primaries
+#### Specific primaries
 Tailwind CSS, CSS Modules, GitHub / GitLab, REST API, SEO, mobx, i18next, react-dom, redux-toolkit and redux-persist, lucide-react, axios, jsmediatags, mediabunny, radix, tanstack, clsx, framer-motion, eslint, husky, lint-staged, prettier, storybook and vite. 
 
 ### Secondary
