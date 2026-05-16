@@ -1,32 +1,46 @@
 ## Work experience
 
-### LLC "Study Ninja", December 2025 - Present
+### LLC "Itorum" as Next.js Dev, March 2026 — Present
+— Developed a scalable editor architecture with Next.js and TypeScript, separating feature and configuration domains into independent modules;
+— Designed a feature-based frontend structure, organizing features into isolated layers that simplified long-term maintenance and extension;
+— Built a unified integration layer for AI workflows;
+— Implemented media management flows, including Redux-based state handling;
+— Developed editor initialization and save flows;
+— Created a subtitles system;
+— Set up project engineering practices with Docker, GitLab CI, husky hooks, lint-staged, and consistent code quality checks;
+— Built and maintained a shared UI kit and Storybook-based component library;
+— Made interface scalable and maintainable across multiple locales by implementing i18n.
 
-- Developed complex interactive UI modules using React + TypeScript (graph-based interfaces, custom nodes, visual states).
-- Designed and maintained the client-side architecture of modules: separation of business logic, UI components, configuration, and API layers.
-- Implemented type-safe interaction with the backend (DTOs, response types, loading and error state handling).
-- Worked with entity states and business statuses, ensuring consistent and accurate data representation in the UI.
-- Optimized React component performance (memoization, render control).
-- Maintained code readability and extensibility within a team development environment.
+### LLC "Study Ninja" as Open Source React Dev, December 2025 — Present
 
-### LLC "Yenisey-Group", May 2025 - December 2025 (8 months)
+— Improved data visualization usability by developing graph-based UI modules with React and TypeScript;
+— Ensured code scalability and maintainability by designing a modular component architecture (UI, business logic, API);
+— Reduced the number of bugs by implementing type-safe backend integration (DTOs, error handling, loading states);
+— Increased component performance by applying memoization techniques and controlling unnecessary re-renders;
+— Improved team collaboration and code quality by contributing to coding standards and maintaining code readability;
+— Enhanced platform accessibility by implementing an accessibility mode compliant with WCAG guidelines: improved contrast, typography, and keyboard navigation, added animation controls and larger interaction areas, ensuring удобство использования → ensuring ease of use for users with disabilities;
+— Implemented internationalization (i18n): developed and maintained interface translations, ensuring accurate localization and scalable multilingual support.
 
-- Designed and implemented a scalable full-stack application architecture using NestJS + React + TypeScript.
-- Built a state management system with Redux Toolkit, ensuring synchronization between UI and server data (CRUD operations, loading and error handling).
-- Implemented strict API contract typing (DTOs, response and error types), preventing desynchronization between backend and frontend.
-- Set up the development environment and workflows (ESLint, Prettier, GitHub Flow), ensuring stable team collaboration and CI-like discipline.
+### LLC "Yenisey-Group" as NestJS Dev, May 2025 — December 2025 (8 months)
 
-### LLC "Web Development", December 2024 - May 2025 (6 months)
+— Ensured application scalability by designing a full-stack architecture with NestJS, React, and TypeScript;
+— Achieved accurate synchronization between UI and server data by building a state management system with Redux Toolkit;
+— Eliminated frontend/backend inconsistencies by introducing strict typing for API contracts;
+— Improved development workflow stability by establishing CI-like engineering practices and processes.
 
-- Developed the client-side architecture of a React application under WebApp environment constraints (limited APIs, performance, storage).
-- Designed a global state management system (Redux with localStorage synchronization), preserving user settings and filters across sessions.
-- Managed tasks in Jira and participated in code reviews via pull requests, working within a team-based workflow.
+### LLC "Web Development" as React Dev, December 2024 — May 2025 (6 months)
+
+— Contributed to the development of a client-side architecture for a React application under WebApp environment constraints (limited APIs, performance, storage).
+— Designed a global state management system (Redux with localStorage synchronization), ensuring persistence of user settings and filters across sessions.
+— Managed tasks in Jira and participated in code reviews via pull requests, working within a team-based workflow.
 
 ## Skills
 
 ### Primary
-React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, CSS Modules, Git, Redux, HTML, CSS, REST API, Figma, SEO optimization, i18next, Docker.
+React / Redux, Next.js, TypeScript / JavaScriptGit, HTML, CSS, Figma, Docker.
+
+#### Specifics primaries
+Tailwind CSS, CSS Modules, GitHub / GitLab, REST API, SEO, mobx, i18next, react-dom, redux-toolkit and redux-persist, lucide-react, axios, jsmediatags, mediabunny, radix, tanstack, clsx, framer-motion, eslint, husky, lint-staged, prettier, storybook and vite. 
 
 ### Secondary
-
-Python, Linux, MongoDB, MySQL, NestJS, PHP.
+Python, Linux, MongoDB, MySQL, NestJS, PHP, Zustand.
