@@ -11,7 +11,7 @@
 - Built and maintained a shared UI kit and Storybook-based component library;
 - Made interface scalable and maintainable across multiple locales by implementing i18n.
 
-### LLC "Study Ninja" as Open Source React Dev, December 2025 - Present
+### LLC "Study Ninja" as Open Source React Dev, December 2025 - July 2026 (8 months)
 
 - Improved data visualization usability by developing graph-based UI modules with React and TypeScript;
 - Ensured code scalability and maintainability by designing a modular component architecture (UI, business logic, API);
