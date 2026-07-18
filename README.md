@@ -6,11 +6,11 @@
 
 - architected and developed a video editor from scratch based on the polotno canvas engine, implementing custom features for timeline management, media manipulation, and export pipelines;
 - built an ai agent integration with support for multiple intent flows: chat-based editing, avatar generation, subtitle styling, revoicing, stock media search, and json-based scene modifications;
-- implemented a custom media panel with ai-powered image/video generation, stock media search with reference-based uploads, and dynamic toolbar loading states;
+- implemented a custom media panel with ai-powered image / video generation, stock media search with reference-based uploads, and dynamic toolbar loading states;
 - developed a subtitle system with automatic generation, timeline synchronization, customizable appearance (fonts, colors, positioning), and canvas overlay rendering;
 - created a revoice panel with language selection, audio playback, and integration with voice synthesis services;
 - built an onboarding flow with guided slides, video tutorials, and progressive feature discovery;
-- implemented project save/load functionality with store serialization, audio rendering, and video export preparation;
+- implemented project save / load functionality with store serialization, audio rendering, and video export preparation;
 - set up a modular feature-based architecture with clear separation between api, model (zustand slices), lib (business logic), and ui layers;
 - configured development tooling: vite, tailwind css v4, eslint, prettier, husky, lint-staged, and type-safe api integration with zod schemas;
 - integrated react hook form with zod validation for structured user inputs across panels.
@@ -19,17 +19,17 @@
 
 #### ai marketing platform (react)
 
-- bootstrapped a next.js application from zero with a feature-sliced architecture covering authentication, chat, funnel management, marketing analysis, post planning, and workspace management;
+- bootstrapped a react application from zero with a feature-sliced architecture covering authentication, chat, funnel management, marketing analysis, post planning, and workspace management;
 - developed a real-time ai chat system with websocket integration, supporting chat creation, history loading, message drafting, and trajectory-based conversation flows;
 - built a funnel generation system with ai-powered trajectory catalog creation, priority management, and polling-based async generation tracking;
-- implemented marketing analysis modules: audience pain research, product value analysis, serp research, market context tracking, and company/industry normalization;
-- created a post planning system with ai content generation, media reference management, scheduling, and publishing workflows;
-- designed a comprehensive state management layer using redux toolkit with persistence (redux-persist), covering active chat, drafts, lists, types, and ui states;
-- established strict api contract typing with typescript, ensuring frontend/backend consistency across all features;
+- implemented marketing analysis modules;
+- created a post planning system with ai content generation, scheduling, and publishing workflows;
+- designed a comprehensive state management layer using zustand, covering active chat, drafts, lists, types, and ui states;
+- established strict api contract typing with typescript, ensuring frontend / backend consistency across all features;
 - set up storybook for component documentation, vitest with playwright for browser testing, and coverage reporting;
-- configured ci-like tooling: eslint, prettier, husky, lint-staged, and tailwind css v4.
+- configured ci-like tooling: eslint, prettier, husky, lint-staged, and tailwind css.
 
-**stack:** react, typescript, polotno, redux, tailwind css, vite, zod, react hook form, axios, date-fns, dompurify, lucide-react, react-big-calendar, swagger-ui.
+**stack:** react, typescript, polotno, zustand, tailwind css, vite, zod, react hook form, axios, date-fns, dompurify, lucide-react, react-big-calendar, swagger-ui.
 
 ### ai html lesson generator (python)
 
