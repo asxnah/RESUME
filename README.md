@@ -17,7 +17,7 @@
 
 **stack:** next.js, react, typescript, redux, axios, mediabunny, tailwind css, vite, storybook.
 
-### ai marketing platform (react)
+#### ai marketing platform (react)
 
 - bootstrapped a next.js application from zero with a feature-sliced architecture covering authentication, chat, funnel management, marketing analysis, post planning, and workspace management;
 - developed a real-time ai chat system with websocket integration, supporting chat creation, history loading, message drafting, and trajectory-based conversation flows;
