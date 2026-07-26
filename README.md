@@ -52,7 +52,7 @@
 - reduced the number of bugs by implementing type-safe backend integration (dtos, error handling, loading states);
 - increased component performance by applying memoization techniques and controlling unnecessary re-renders;
 - improved team collaboration and code quality by contributing to coding standards and maintaining code readability;
-- enhanced platform accessibility by implementing an accessibility mode compliant with wcag guidelines: improved contrast, typography, and keyboard navigation, added animation controls and larger interaction areas, ensuring удобство использования → ensuring ease of use for users with disabilities;
+- enhanced platform accessibility by implementing an accessibility mode compliant with wcag guidelines: improved contrast, typography, and keyboard navigation, added animation controls and larger interaction areas, ensuring ease of use for users with disabilities;
 - implemented internationalization (i18n): developed and maintained interface translations, ensuring accurate localization and scalable multilingual support.
 
 **stack:** react, radix, axios, framer-motion, i18next, zustand.
