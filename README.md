@@ -27,7 +27,9 @@
 - designed a comprehensive state management layer using zustand, covering active chat, drafts, lists, types, and ui states;
 - established strict api contract typing with typescript, ensuring frontend / backend consistency across all features;
 - set up storybook for component documentation, vitest with playwright for browser testing, and coverage reporting;
-- configured ci-like tooling: eslint, prettier, husky, lint-staged, and tailwind css.
+- configured ci-like tooling: eslint, prettier, husky, lint-staged, and tailwind css;
+- hardened authentication, session sync, real-time chat, and third-party rendering against race conditions, stale caches, and context leaks across features;
+- cut the initial bundle from 806 kb to 92 kb (nearly 9x smaller) gzip through route-based code splitting and dev-dependency isolation.
 
 **stack:** react, typescript, polotno, zustand, tailwind css, vite, zod, react hook form, axios, date-fns, dompurify, lucide-react, react-big-calendar, swagger-ui.
 
