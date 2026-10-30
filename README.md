@@ -33,7 +33,19 @@
 
 **stack:** react, typescript, polotno, zustand, tailwind css, vite, zod, react hook form, axios, date-fns, dompurify, lucide-react, react-big-calendar, swagger-ui.
 
-### ai html lesson generator (python)
+#### qr/nfc business cards web service (react + vite)
+
+- developed a mobile-first web app for digital business cards that opens via qr codes and nfc tags, covering both guest and business owner flows;
+- implemented a real-time ai chat using websockets, including a custom connection manager with exponential backoff reconnects, state syncing for react strict mode, and optimistic ui updates;
+- built a secure api client to handle authentication: keeping access tokens in memory, refresh tokens in session storage, and managing queued 401 retries without race conditions;
+- designed and built all ui states for tag resolution and a guest onboarding flow with strict zod validation, phone input masking, and draft saving;
+- set up production deployment with multi-stage docker and nginx for spa routing, and optimized the vite bundle by splitting vendor chunks and excluding mock dependencies (msw) from the prod build;
+- covered the app with unit, integration (msw), and e2e (playwright) tests, ensuring the main user flow from scanning a tag to chatting with ai works smoothly;
+- configured gitlab ci and husky pre-commit hooks to enforce strict type checking, linting, and automated testing on every push.
+
+**stack**: react, typescript, vite, tailwind css, tanstack query, zod, react hook form, radix ui, websockets, vitest, playwright, msw, docker.
+
+#### ai html lesson generator (python)
 
 - designed and implemented a python-based pipeline for generating structured html educational content from text inputs using llm apis;
 - built a modular architecture with clear separation: gpt client, prompt engineering layer, html validation, budget management, and async job processing;
